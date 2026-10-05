@@ -1,9 +1,5 @@
 print(123)
 """
-Aula dedicada a exemplificar como pode ser
-feito comentários na linguagem Python.
-Em que podemos usar:
--aspas duplas e simples;
--hashtags.
+Aula dedicada a mostrar como podem ser feitos comentários na linguagem, com aspas simples, duplas e hashtags.
 """
 print(456)
