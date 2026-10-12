@@ -1,6 +1,4 @@
-frase = 'O Python é uma linguagem de programação ' \
-    'multiparadigma. ' \
-    'Python foi criado por guido van rossum.'
+frase = 'aaaooo'
 
 i = 0
 qtd_apareceu_mais_vezes = 0
@@ -21,8 +19,8 @@ while i < len(frase):
 
     i += 1
 
-    print(
-        'A letra que apareceu mais vezes foi '
-        f'{letra_apareceu_mais_vezes} que apareceu '
-        f'{qtd_apareceu_mais_vezes}x'
-    )
+print(
+    'A letra que apareceu mais vezes foi '
+    f'{letra_apareceu_mais_vezes} que apareceu '
+    f'{qtd_apareceu_mais_vezes}x'
+)
